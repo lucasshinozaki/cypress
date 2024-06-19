@@ -20,5 +20,5 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto de teste
 - **[Cypress Cloud](https://www.cypress.io/cloud)**: Plataforma para compartilhamento de documentação de testes em nuvem.
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: Linguagem de programação utilizada para escrever os testes.
 - **[Node.js](https://nodejs.org)**: Ambiente de execução para o JavaScript no servidor.
-- **[Mochawesome]: Gerador de relatórios de teste HTML e JSON para o Mocha, permitindo visualização detalhada e personalizável dos resultados dos testes.
+- **[Mochawesome]**: Gerador de relatórios de teste HTML e JSON para o Mocha, permitindo visualização detalhada e personalizável dos resultados dos testes.
 ---
